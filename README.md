@@ -55,7 +55,7 @@ The objective of this task was to clean a real-world dataset by performing essen
 🎥 I have also recorded a short video walkthrough of my solution and posted it on **LinkedIn**.
 
 Feel free to connect and view the project there:
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gayathri_sanjana_nukala) 
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gayathri-sanjana-nukala) 
 
 ---
 
